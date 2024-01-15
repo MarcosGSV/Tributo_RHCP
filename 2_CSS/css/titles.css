@@ -1,0 +1,12 @@
+h4{
+    font-size: 30px;
+    color: darkgoldenrod;
+    background-color: black;
+    border: 2px greenyellow solid;
+    text-align: center;
+    border-radius: 40px;
+}
+
+body{
+    background: gray;   /* comentário CSS */
+}
